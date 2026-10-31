@@ -8,7 +8,8 @@ enum class BrowserOverlay {
     BOOKMARKS,
     HISTORY,
     DOWNLOADS,
-    SETTINGS
+    SETTINGS,
+    ABOUT
 }
 
 data class BrowserUiState(
