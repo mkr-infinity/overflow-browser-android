@@ -1,0 +1,95 @@
+# Overflow Browser ad/tracker host list.
+# One host per line. A listed host also blocks its subdomains.
+# This list is intentionally conservative and contains well-known ad and
+# tracking endpoints only. It does not block first-party site content.
+
+# Google advertising and analytics
+doubleclick.net
+googleadservices.com
+googlesyndication.com
+googletagmanager.com
+googletagservices.com
+google-analytics.com
+adservice.google.com
+pagead2.googlesyndication.com
+partner.googleadservices.com
+pubads.g.doubleclick.net
+securepubads.g.doubleclick.net
+stats.g.doubleclick.net
+
+# Major ad exchanges and SSPs
+adnxs.com
+adsrvr.org
+adform.net
+adition.com
+advertising.com
+adroll.com
+amazon-adsystem.com
+bidswitch.net
+casalemedia.com
+contextweb.com
+conversantmedia.com
+criteo.com
+criteo.net
+dotomi.com
+emxdgt.com
+indexww.com
+lijit.com
+media.net
+moatads.com
+openx.net
+pubmatic.com
+rubiconproject.com
+sharethrough.com
+smartadserver.com
+sovrn.com
+spotxchange.com
+teads.tv
+tremorhub.com
+turn.com
+undertone.com
+vidible.tv
+yieldlab.net
+yieldmo.com
+zedo.com
+
+# Mobile ad networks
+adcolony.com
+applovin.com
+chartboost.com
+inmobi.com
+ironsrc.com
+mopub.com
+startappservice.com
+supersonicads.com
+tapjoy.com
+unityads.unity3d.com
+vungle.com
+
+# Native advertising and recommendation widgets
+nativo.com
+outbrain.com
+taboola.com
+
+# Data brokers and audience measurement
+adsafeprotected.com
+bluekai.com
+demdex.net
+exelator.com
+krxd.net
+mathtag.com
+ml314.com
+nexac.com
+omtrdc.net
+quantserve.com
+rlcdn.com
+scorecardresearch.com
+sitescout.com
+tapad.com
+tribalfusion.com
+
+# Other common trackers
+analytics.twitter.com
+ads.twitter.com
+connect.facebook.net
+static.ads-twitter.com
