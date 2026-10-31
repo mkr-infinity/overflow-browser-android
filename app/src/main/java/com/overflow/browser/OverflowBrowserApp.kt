@@ -11,8 +11,12 @@ import android.webkit.WebView
  */
 class OverflowBrowserApp : Application() {
 
+    lateinit var container: AppContainer
+        private set
+
     override fun onCreate() {
         super.onCreate()
+        container = AppContainer(this)
         if (BuildConfig.DEBUG) {
             WebView.setWebContentsDebuggingEnabled(true)
         }
