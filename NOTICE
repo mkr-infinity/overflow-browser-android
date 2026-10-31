@@ -1,0 +1,18 @@
+Overflow Browser
+Copyright 2026 Mohammad Kaif Raja (mkr-infinity)
+
+This product is licensed under the Apache License, Version 2.0.
+
+Overflow Browser is built with AndroidX, Jetpack Compose, Kotlin, and the
+Android system WebView. Those components are provided by their respective
+authors under the Apache License 2.0 and other compatible open-source licenses.
+
+Overflow Browser is an independent project. It is not affiliated with,
+endorsed by, or connected to Via Browser or any other browser vendor. No
+third-party browser source code or proprietary assets are included.
+
+If you redistribute this project or a modified version, please retain this
+notice and credit the original author:
+
+    Mohammad Kaif Raja (@mkr-infinity)
+    https://github.com/mkr-infinity
