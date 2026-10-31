@@ -8,7 +8,11 @@
 .externalNativeBuild
 .cxx
 **/build/
+.kotlin/
 *.jks
 *.keystore
 *.p12
 *.pem
+*.apk
+*.aab
+app/release/
