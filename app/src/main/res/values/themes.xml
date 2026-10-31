@@ -1,0 +1,5 @@
+package com.overflow.browser.ui.theme
+
+import androidx.compose.material3.Typography
+
+val OverflowTypography = Typography()
